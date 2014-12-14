@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1418596534308">{:repl-history {:ide [], :local [&quot;(lab2.core/-get-valid-urls \&quot;&lt;html lang=\&quot;en\&quot;&gt;\n  &lt;body&gt;\n    &lt;header&gt;\n      &lt;h1&gt;Header placeholder&lt;/h1&gt;\n      &lt;ul id=\&quot;navigation\&quot;&gt;\n        &lt;li&gt;&lt;a href=\&quot;#\&quot;&gt;Placeholder for navigation&lt;/a&gt;&lt;/li&gt;\n      &lt;/ul&gt;\n    &lt;/header&gt;\n  &lt;/body&gt;\n&lt;/html&gt;\&quot;)&quot; &quot;(lab2.core/get-valid-urls \&quot;&lt;html lang=\&quot;en\&quot;&gt;\n  &lt;body&gt;\n    &lt;header&gt;\n      &lt;h1&gt;Header placeholder&lt;/h1&gt;\n      &lt;ul id=\&quot;navigation\&quot;&gt;\n        &lt;li&gt;&lt;a href=\&quot;#\&quot;&gt;Placeholder for navigation&lt;/a&gt;&lt;/li&gt;\n      &lt;/ul&gt;\n    &lt;/header&gt;\n  &lt;/body&gt;\n&lt;/html&gt;\&quot;)&quot; &quot;(lab2.core/-main)&quot;], :remote []}}</component>
+</project>
+
